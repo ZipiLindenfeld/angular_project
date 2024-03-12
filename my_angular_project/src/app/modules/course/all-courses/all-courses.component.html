@@ -1,0 +1,49 @@
+<div id="selectDiv">
+    <div class="selectPart">
+        <label class="custom-label">select category:</label>
+        <div class="custom-select">
+            <select [(ngModel)]="selectedCategory" (change)="change()" id="categoryFilter">
+                <option value="-1">All</option>
+                <option *ngFor="let category of categories" [value]="category.id">{{ category.name }}</option>
+            </select>
+        </div>
+    </div>
+    <div class="selectPart">
+        <label class="custom-label">select learning type:</label>
+        <div class="custom-select">
+            <select [(ngModel)]="selectedLearningType" (change)="change()" id="learningTypeFilter">
+                <option value="-1">All</option>
+                <option value="1">Zoom</option>
+                <option value="0">Frontal</option>
+            </select>
+        </div>
+    </div>
+    <div class="selectPart">
+        <label class="custom-label">select by name</label>
+        <input matInput type="text" [(ngModel)]="selectedName" (input)="change()" placeholder="select name" />
+    </div>
+</div>
+
+
+<div class="cards">
+    <mat-card class="example-card" *ngFor="let course of courses">
+        <mat-card-header>
+            <div mat-card-avatar class="example-header-image"></div>
+            <mat-card-title>{{course?.name}}</mat-card-title>
+            <mat-card-subtitle>{{categories[course?.categoryId]?.name}}
+                <mat-icon>{{categories[course?.categoryId]?.iconRouting}}</mat-icon>
+                <mat-icon>{{course.learningType | learningTypeIcon}}</mat-icon>
+            </mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image src={{course.img}} alt="Photo of a camera">
+        <p [ngClass]="getCssClass(this.course)">
+            {{ course?.startDate }}
+        </p>
+        <mat-card-actions>
+            <mat-icon>arrow_forward</mat-icon>
+            <button mat-button (click)="showDetailes(course)">More Detailes</button>
+            <mat-icon>edit</mat-icon>
+            <button [disabled]="this.user&&!this.user.isLecturer" mat-button (click)="editCourse(course)">Edit</button>
+        </mat-card-actions>
+    </mat-card>
+</div>

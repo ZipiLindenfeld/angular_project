@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|c:\\users\\user1\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\mywebapplicationforangular\\mywebapplicationforangular\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E709770-AADA-4D2A-A56E-CE9AEC31C1D4}|MyWebApplicationForAngular\\MyWebApplicationForAngular.csproj|solutionrelative:mywebapplicationforangular\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:46:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Controllers\\LecturerController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA8wBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:38:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:28:28.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Category.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Models\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:48:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Course.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Models\\Course.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:49:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:59:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\Lecturer.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Models\\Lecturer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:47:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyWebApplicationForAngular\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\MyWebApplicationForAngular\\MyWebApplicationForAngular\\Models\\User.cs",
+              "RelativeToolTip": "MyWebApplicationForAngular\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:47:21.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

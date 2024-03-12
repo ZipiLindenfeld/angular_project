@@ -1,0 +1,28 @@
+<div id="courseDetailes">
+    <mat-card class="example-card">
+        <mat-card-header>
+            <div mat-card-avatar class="example-header-image"></div>
+            <mat-card-title>{{course?.name}}</mat-card-title>
+            <mat-card-subtitle>{{category?.name}}
+                <mat-icon>{{category?.iconRouting}}</mat-icon>
+            </mat-card-subtitle>
+        </mat-card-header>
+        <p><b>Course Duration:</b> {{course?.countLessons}} Sessions | <b>Learning format:</b>
+            {{learningType[course?.learningType]}}</p>
+        <p><b>Start Date:</b> {{ course?.startDate}}</p>
+        <b>Course lecturer: {{course?.lecturerId}}</b>
+        <img mat-card-image src={{course?.img}} alt="Photo of a camera">
+        <mat-card-content>
+            <h2>{{course?.syllabus[0]}}</h2>
+            <div *ngFor="let line of course?.syllabus">
+                <h4 *ngIf="line.startsWith('Unit')">{{line}}</h4>
+
+                <li *ngIf="!line.startsWith('Unit')&&line!=course?.syllabus[0]">{{line}}</li>
+            </div>
+        </mat-card-content>
+        <mat-card-actions>
+            <button mat-button>LIKE</button>
+            <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+</div>

@@ -1,0 +1,50 @@
+<form *ngIf="this.courseForm" [formGroup]="courseForm">
+    <label for="name">course name</label>
+    <input type="text" placeholder="name" name="name" formControlName="name" value="this.course.name" />
+    <ng-container *ngIf="this.courseForm.controls['name'].errors&&this.courseForm.controls['name'].touched">
+        <div *ngIf="courseForm.controls['name'].errors['required']">this field is required</div>
+    </ng-container>
+    <br />
+    <label for="categoryId">category</label>
+    <select formControlName="categoryId">
+        <option *ngFor="let category of this.categories" [value]="category.id">{{category.name}}</option>
+    </select>
+    <br />
+    <label for="countLessons">count lessons</label>
+    <input type="number" placeholder="countLessons" name="countLessons" formControlName="countLessons" />
+    <ng-container
+        *ngIf="this.courseForm.controls['countLessons'].errors&&this.courseForm.controls['countLessons'].touched">
+        <div *ngIf="courseForm.controls['countLessons'].errors['required']">this field is required</div>
+    </ng-container>
+    <br />
+    <label for="startDate">start date</label>
+    <input type="date" placeholder="startDate" name="startDate" formControlName="startDate" />
+    <ng-container *ngIf="this.courseForm.controls['startDate'].errors&&this.courseForm.controls['startDate'].touched">
+        <div *ngIf="courseForm.controls['startDate'].errors['required']">this field is required</div>
+    </ng-container>
+    <br />
+    <div *ngFor="let input of inputArray; let i = index">
+        <mat-form-field>
+            <mat-label>Syllabus {{ i + 1 }}</mat-label>
+            <input (change)="addInput(inputArrayControls[i],i)" matInput type="text"
+                [formControl]="inputArrayControls[i]">
+        </mat-form-field>
+    </div>
+    <br />
+    <label for="learningType">learningType:</label>
+    <input type="radio" name="learningType" formControlName="learningType" value="0" /> zoom
+    <input type="radio" name="learningType" formControlName="learningType" value="1" />frontal
+    <br />
+    <label for="img">img</label>
+    <input type="text" placeholder="img routing" name="img" formControlName="img" />
+    <ng-container *ngIf="this.courseForm.controls['img'].errors&&this.courseForm.controls['img'].touched">
+        <div *ngIf="courseForm.controls['img'].errors['required']">this field is required</div>
+    </ng-container>
+    <br />
+    <!-- <button type="submit" (click)="saveNewCourse()">Save</button> -->
+    <button type="submit" (click)="saveNewCourse()" [disabled]="!courseForm.valid">Save</button>
+    <br />
+    <button type="submit" (click)="cancel()">Cancel</button>
+
+
+</form>
